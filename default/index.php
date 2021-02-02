@@ -38,7 +38,7 @@ var _hmt = _hmt || [];
   
 <?php session_start();
 
-  if($_SESSION['username'] ==='贾建飞'){
+  if($_SESSION['username'] ==='beyond'){
    echo"<a href='log.php' target='_bank'>>Log<</a>";   
   }
 

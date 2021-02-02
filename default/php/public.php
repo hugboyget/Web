@@ -1,5 +1,5 @@
 <?php
-$con = mysql_connect("www.heihei.work:3306","jjf","12580");
+$con = mysql_connect("www.example.work:3306","beyond","12345");
 if(!$con)
 {
 	die('Could not connect Mysql:'. mysql_error());
